@@ -1,7 +1,7 @@
 {
-    "id": "plugin_id",
+    "id": "stop_now",
     "version": "0.1.0",
-    "name": "plugin_name",
+    "name": "Stop Now!",
     "description": {
         "en_us": "",
         "zh_cn": ""
